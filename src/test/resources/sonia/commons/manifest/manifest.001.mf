@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Sonia-Revision: e7e39b96a16abdb929dbcad6fc0fee9e84354aaf
+Built-By: hudson
+Build-Jdk: 1.7.0_09
+Sonia-Build-Timestamp: 20130412-1058
+Created-By: Apache Maven
+Sonia-Version: 1.0.0-SNAPSHOT
+Sonia-Build-Number: 7
+Sonia-Build-Node: rzsci2.ostfalia.de
+Sonia-Unit-Test: true
+Archiver-Version: Plexus Archiver
+
+Name: sonia/commons/manifest/Manifest
+Description: Section test
